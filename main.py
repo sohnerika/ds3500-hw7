@@ -1,0 +1,3 @@
+"""
+Script that uses framework
+"""
