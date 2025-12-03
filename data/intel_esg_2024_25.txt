@@ -1,0 +1,277 @@
+INTEL CORPORATION
+2024-25 CORPORATE RESPONSIBILITY REPORT
+
+OUR CEO - LIP-BU TAN, CHIEF EXECUTIVE OFFICER
+
+I'm an engineer at heart. Nothing motivates me more than solving hard problems. Our teams across Intel are driven by this same mindset—inspired by the power of technology to enable new solutions to our customers' toughest challenges. I fundamentally believe this will be a catalyst for innovation throughout our company for years to come—and every day brings new opportunities for us to improve.
+
+In our 2024-2025 Corporate Responsibility Report, you will see we have made important progress in many areas. We are driving greater compute performance in our products while improving their power efficiency. Our water conservation and use of renewable energy is supporting a resilient and sustainable manufacturing footprint. And our close collaboration with partners across our value chain is helping customers to achieve their own sustainability goals.
+
+But this work is never done—and we have a lot of hard work ahead as we take actions to reshape our company, strengthen our culture, and empower our engineers to do what they do best.
+
+Underpinning this work is a consistent focus on technology, sustainability, and talent investments aligned with our long-term goals. At the end of the day, our work in these areas drives innovation and growth—because when great people engineer great products to delight our customers, we strengthen our business and help meet the needs of a changing world.
+
+I am looking forward to the work ahead as we build a new Intel. Thank you for your feedback and your partnership.
+
+OUR HEAD OF SUSTAINABILITY - MADISON WEST
+
+At Intel, we've long believed that corporate responsibility and innovation go hand in hand. This belief has guided our work for decades—from setting ambitious sustainability goals to embedding ethical practices across our global operations. As we approach the midpoint of our 2030 commitments, we're proud of our progress—but also clear-eyed about the challenges ahead.
+
+This year marks an evolution in our approach. We're sharpening our focus to drive deeper impact in the areas where Intel's leadership can be most transformational: People, Sustainability, and Technology. This streamlined framework allows us to act with greater clarity, agility, and accountability—while staying true to our core values. It reflects both the urgency of today's global challenges and the immense opportunity we have to shape a more inclusive, resilient, and sustainable future.
+
+Across Intel, our teams continue to turn ambition into action. From advancing workplace safety and wellness, to scaling circular solutions and supporting next-generation talent in science, technology, engineering, and math (STEM)—we are future-proofing our business by creating value for society.
+
+This report outlines where we've made progress and where we must go further. It also reflects the collaboration, persistence, and innovation that define our journey.
+
+Thank you for your continued collaboration. Together, we're building a future that works—sustainably—for everyone.
+
+OUR CORPORATE RESPONSIBILITY PRIORITIES
+
+Our commitment to corporate responsibility—built on a strong foundation of transparency, governance, ethics, and respect for human rights—creates value for Intel and our stakeholders by helping us mitigate risks, reduce costs, and build brand value.
+
+We are now once again sharpening our priorities to ensure that we are focused on the areas where we believe that Intel, as a leader in the technology ecosystem, can drive the greatest impact. We have outlined our current corporate responsibility priorities in three main focus areas: People, Sustainability, and Technology.
+
+PEOPLE
+
+Advance a culture of safety and wellness in our workplace. We are committed to providing a safe and injury-free workplace for all our employees, contractors, customers, partners, and the public. We focus on prevention, early intervention, and integrating safety into our daily business. We aim to achieve a recordable injury/illness rate of less than 0.5 per 100 employees.
+
+Expand opportunities to reach and retain available top talent across the markets in which we operate. Our people work with our customers and stakeholders to create life-changing technology and unlock new business opportunities. As such, we invest significant resources to create an inclusive workplace and attract, develop, and retain world-class talent. Over the next year, we aim to integrate consistent talent indicators across all of our talent systems and processes.
+
+SUSTAINABILITY
+
+Enable our operations and our customers to reduce their environmental impact. We aspire to be a global leader in sustainability—in our own operations and beyond. Our environmental projects and company-wide initiatives are driving reductions in greenhouse gas emissions, energy use, water use, and waste to landfill around the world. We aim to achieve net positive water, zero waste to landfill, and 100% renewable electricity in our operations by 2030. We also strive to achieve net-zero Scope 1 and 2 emissions by 2040 and Scope 3 upstream emissions by 2050.
+
+TECHNOLOGY
+
+Leverage our technology as a force multiplier. We continuously look for ways to leverage our technology expertise to enrich lives and solve challenges in health, education, climate change, supply chain, and other areas. With each new generation of products, we strive to offer higher performance and improved energy efficiency compared to previous generations. We aim to increase product energy efficiency 10X by 2030 for Intel client and server microprocessors to reduce the Scope 3 GHG emissions of our products in customer applications and overall energy consumption.
+
+Advance supply chain resilience. An agile and resilient supply chain supports greater innovation for our business and broadens participation across the technology industry. In 2025, we aim to accelerate the integration of small businesses and emerging suppliers into our supply chain by engaging new suppliers to compete for Intel contracts. We continue to reaffirm our commitment to our resilient supply chain by delivering value and innovation to our customers, employees, and stockholders.
+
+A YEAR IN REVIEW
+
+Intel plays a critical role in the global technology ecosystem. In 2024, we continued our transformational journey to remake this great company. We have built a market-leading position in the AI PC category and enhanced our process technology competitiveness. Amid economic pressures, we maintained our strong commitment not only to innovation, but to corporate responsibility.
+
+Welcome, Lip-Bu Tan: In March, the Intel Board of Directors appointed Lip-Bu Tan, an accomplished technology leader, as Intel CEO. Tan is a long-time technology investor and widely respected executive with more than 20 years of semiconductor and software experience, as well as deep relationships across Intel's ecosystem.
+
+Next-Gen Process Technology: We expect volume production for Intel 18A, Intel Foundry's leading-edge process node, to begin in 2025. Core Intel 18A technologies—including RibbonFET and PowerVia—enable greater processor scale and efficiency, which are required to drive forward AI computing.
+
+$639 Million for Green Projects: In our second Annual Green Bond Report, published in 2024, we outlined the allocation of a cumulative $639 million, or approximately 51%, of a $1.25 billion green bond issued in 2022. Eligible project areas include pollution prevention and control, water stewardship, energy efficiency, renewable electricity, circular economy and waste management, and green buildings.
+
+CHIPS ACT AWARDS
+
+In November 2024, Intel and the US Department of Commerce announced an agreement to award Intel $7.86 billion in direct funding for our commercial semiconductor manufacturing projects under the US CHIPS and Science Act. Intel received $1.1 billion of that award in the fourth quarter of 2024 and $1.1 billion in January 2025.
+
+CHIPS Act funding will help advance Intel's critical semiconductor manufacturing and advanced packaging projects at our sites in Arizona, New Mexico, Ohio, and Oregon—US locations where we will produce some of the world's most advanced chips and semiconductor packaging technologies.
+
+Building Tomorrow's Workforce: Intel's CHIPS award includes an additional $65 million set aside to support efforts to create a more skilled semiconductor workforce.
+
+Securing the US Chip Supply Chain: Intel was also awarded $3 billion in direct funding in September 2024 under the CHIPS Act for the Secure Enclave program, which is designed to expand trusted manufacturing of leading-edge semiconductors for the US government.
+
+OUR GLOBAL MANUFACTURING NETWORK
+
+Our global factory network has been foundational to our success, enabling product optimization, improved economics, and supply resilience. We currently operate wafer manufacturing facilities in the US (Oregon and Arizona), Ireland, and Israel, assembly and testing facilities in Costa Rica, China, Malaysia, and Vietnam, and packaging facilities in the US (New Mexico), Costa Rica, Vietnam, and Malaysia.
+
+In the US, we are undertaking a significant expansion of our Arizona facility for our upcoming Intel 18A process node and continue to expand our advanced packaging facility in New Mexico. Work on two new wafer facilities is well underway in Ohio, though we announced a slower pace of construction as we align our capital investments with market demand.
+
+Outside the US, we are in the later stages of an expansion of our wafer fabrication facilities in Ireland for our Intel 4 and Intel 3 process nodes.
+
+COMPANY PROFILE
+
+Technology permeates every aspect of our lives and is increasingly central to every aspect of human existence. As we look ahead to the next decade, we expect to see continued demand for processing power. Intel is a global designer and manufacturer of the semiconductor products that are powering this digital expansion.
+
+Our purpose is to create world-changing technology that improves the life of every person on the planet.
+
+In 2024, our previously announced internal foundry operating model took effect, creating a foundry relationship between our Intel Products business and Intel Foundry business. We began separately reporting the financials for our Intel Products and Intel Foundry businesses in the first quarter of 2024 and, in the third quarter of 2024, we announced our intent to establish Intel Foundry as an independent subsidiary.
+
+Our 2024 results reflect the continued advancement of our transformational journey. 2024 revenue was $53.1 billion, down 2% from 2023 due to lower all other revenue and lower Intel Foundry revenue, partially offset by higher Intel Products revenue.
+
+We are uniquely positioned with the depth and breadth of our silicon, platforms, software, and packaging and process technology with at-scale manufacturing.
+
+Intel is listed on the Dow Jones Sustainability North America Index, which tracks the sustainability performance of the top 20% of the 600 largest North American companies.
+
+PEOPLE
+
+We invest in our highly skilled workforce by creating practices, programs, and benefits that support the evolving world of work and our employees' needs. We promote and sustain a safe and healthy environment that fuels creativity, strengthens collaboration, and accelerates our ability to make meaningful impact.
+
+2024 HIGHLIGHTS
+
+Strengthening our culture: Our Inclusive Leaders programs helps us build a strong company culture through workshops for all employees. In 2024, 120 Inclusive Leaders Program workshops were delivered globally, with 2,271 participants.
+
+Volunteering for impact: Globally, Intel employees and US retirees have donated more than 22.4 million hours of service—including more than 830,000 hours in 2024—to schools and nonprofits focused on furthering education, youth programs, social welfare, and many other significant causes that help those in need.
+
+Responsibly sourced minerals: We are committed to sourcing the minerals used in our products in an ethical and sustainable manner that safeguards the human rights of everyone in our global supply chain. 99% of the smelters and refiners reported in our supply chain are deemed responsibly sourced through their conformance to and/or participation in a responsible minerals assurance program. In 2024, Intel became one of the first companies to require sourcing information on additional minerals, including aluminum, copper, nickel, and zinc.
+
+EMPLOYEE HEALTH AND SAFETY
+
+We continue to invest in health and safety programs to help employees enjoy a better quality of life and contribute to Intel's success. In 2024, 100% of our workforce completed our Safety Always training course.
+
+Intel ended 2024 with an OSHA recordable rate of 0.71 per 100 employees, compared to the most recently published US semiconductor industry average recordable rate of 1.0 in 2023. Our 2024 days away case rate was 0.17, compared to the most recently published semiconductor industry average of 0.4.
+
+In 2024, 30% of our employees participated in Intel's global wellness program, known as the Intel Vitality Program. 38,175 unique individuals participated in at least one wellness service. Our on-site fitness centers continued to be heavily used in 2024, with over 42,000 employees accessing them.
+
+INTEL FOUNDATION AND CORPORATE PHILANTHROPY
+
+Through corporate philanthropy, Intel funds innovative initiatives in education, technology for good, workforce development, and sustainability. Over the past 36 years the Intel Foundation has given nearly $896 million to communities worldwide.
+
+Foundation and Corporate Giving 2024 Contributions (in millions):
+- Corporate Cash: $52.3 million
+- Foundation Grants: $3.1 million
+- Donation Matching: $14.7 million
+- Volunteer Matching: $7.8 million
+- In-Kind Giving: $1.8 million
+Total: $79.5 million
+
+In 2024, charitable giving by Intel and the Intel Foundation totaled approximately $79.5 million, compared with $81.5 million in 2023.
+
+EMPLOYEES CHANGING THE WORLD
+
+We continue to empower our employees to give back through Intel Involved, our global corporate employee volunteer program. Since the program's launch in 1995, our employees have generously donated their skills, technology expertise, and more than 22.4 million hours of service—including more than 830,000 hours in 2024—to tackle environmental challenges, improve education, and help meet community needs around the world.
+
+Total matching grants for employee volunteer service through Intel Involved since the program's inception in 1995: $150.7 Million
+
+2024 Volunteerism by the Numbers:
+- 19.6% Percentage of employees who volunteered
+- >830K Number of hours
+- $27.9M Estimated in-kind value of volunteer hours
+- $7.8M Total dollars matched by the Intel Foundation for Intel Involved volunteer hours
+
+RESPECTING HUMAN RIGHTS
+
+Human rights are the fundamental rights, freedoms, and standards of treatment to which all people are entitled. The Intel Global Human Rights Principles and Approach statement, policies, and integrated approach to respecting human rights draw upon internationally recognized labor and human rights standards and apply to all employees and contractors, our subsidiaries, and our business relationships, including our supply chain.
+
+In 2024, 230 RBA VAP audits and 22 Intel-led audits were conducted in facilities within our supply chain, about half of which were closure audits. As a result of this due diligence effort, our suppliers have closed 805 audit findings, which included 190 priority and major labor-related findings. These labor-related finding closures resulted in our suppliers returning more than $200,000 in fees to more than 900 workers.
+
+RESPONSIBLE MINERALS SOURCING
+
+Like many companies in the electronics industry, Intel and its suppliers use minerals in manufacturing. In 2008, Intel began work to responsibly source conflict minerals, and in 2017, we expanded our efforts to also address cobalt in our supply chain.
+
+In 2024, Intel sought sourcing information for what we deem critical minerals—including aluminum, copper, nickel, and zinc—from suppliers contributing these materials to our Intel-manufactured microprocessors. Intel is one of the first companies to require the sourcing information on these minerals, and we received a response from approximately 93% of in-scope suppliers.
+
+Through our 2024 supply chain survey process using the RMI Conflict Minerals Reporting Template, 99% of smelters and refiners reported in our supply chain are deemed responsibly sourced through their conformance to and/or participation in a responsible minerals assurance program.
+
+SUSTAINABILITY
+
+Reducing our environmental footprint as we grow helps us create efficiencies and respond to the needs of our stakeholders. We work across three main focus areas—climate, water, and waste—and invest in conservation projects and set company-wide environmental targets.
+
+2024 HIGHLIGHTS
+
+98% global renewable electricity: In 2024, we achieved 100% renewable electricity for our Europe, Israel, Malaysia, Vietnam and China locations, 98% in the US, and 87% in Costa Rica, bringing the global total to 98%. Our Climate Transition Action Plan outlines the steps we plan to take over the next three decades toward more sustainable supply chain, products, and operations to achieve our net-zero targets.
+
+Net positive water in the US, India, Costa Rica, and Mexico: In 2024, we conserved approximately 10.5 billion gallons of water in our operations and community collaborations and enabled restoration of 2.9 billion gallons through watershed restoration projects. These achievements advanced us toward our goal of net positive water. In 2024, we maintained net positive water in the US, India, Costa Rica, and Mexico.
+
+66% manufacturing waste upcycled: During 2024, circular economy practices were applied to approximately 66% of our manufacturing waste streams via reuse, recovery, or recycling.
+
+CLIMATE AND ENERGY
+
+Climate change is a serious environmental, economic, and social challenge. We focus on reducing our own climate impact—the emissions resulting from our own operations, our supply chain, and use of our products.
+
+For over two decades, Intel has set aggressive greenhouse gas (GHG) reduction goals. We invest in GHG reductions through chemical substitution, GHG abatement, energy conservation, process optimization, and renewable and alternative electricity. As a result of these actions, we have avoided 84% of our cumulative Scope 1 and 2 GHG emissions over the last decade and have reduced our absolute emissions by 70% from our peak year of 2006.
+
+Our goals are to achieve an additional 10% reduction in our absolute Scope 1 and 2 GHG emissions by 2030 and to reach net-zero Scope 1 and 2 GHG emissions by 2040. During 2024, our Scope 1 and 2 GHG emissions decreased 24% from the 2019 baseline. This decrease was due in part to completion of energy conservation projects, other GHG reduction projects, use of GHG abatement, and renewable electricity purchases such as renewable energy certificates (RECs) and power purchase agreements (PPAs).
+
+Energy Conservation: Reducing energy use in our operations is core to Intel's overall climate strategy and our sustainability goals. Our goal is to achieve cumulative energy savings of 4 billion kWh from 2020 to 2030. As of the end of 2024, we had cumulatively conserved 2.4 billion kWh of electricity from the 2020 baseline. We have invested $104 million in energy conservation projects in our global operations since 2020, resulting in cumulative cost savings of approximately $150 million.
+
+Renewable and Alternative Electricity: Over the last five years, Intel's renewable electricity supply and attribute purchases have totaled more than 41.7 billion kWh, enough to power nearly 4 million US households for one year.
+
+Our 2030 goal is to achieve 100% renewable electricity across our global operations. In 2024, we achieved 100% renewable electricity for our Europe, Israel, Malaysia, Vietnam, and China locations, 98% in the US, and 87% in Costa Rica—bringing the global total to 98% as of the end of 2024.
+
+WATER STEWARDSHIP
+
+By responsibly managing our water use, as guided by our Global Water Policy, we aim to meet our business needs and those of our communities. In 2024, we returned and restored 106% (by volume) of our fresh water withdrawals to our communities through efficient water management, water reuse, and projects funded by Intel that enabled water restoration in local watersheds.
+
+Our water strategy has three focus areas: reduce the water used in our operations through innovative water conservation projects, reuse water within our operations through investments in state-of-the-art water treatment facilities, and restore water to our watersheds in collaboration with nonprofit environmental organizations.
+
+Our water conservation efforts saved approximately 10.5 billion gallons of water in 2024. Since 2020, our water conservation efforts have saved approximately 46.7 billion gallons of water, enough to sustain about 430,000 US homes for one year.
+
+During 2024, we continued to fund water restoration projects benefiting the watersheds that we impact and the communities where we operate. Intel-enabled projects restored about 2.9 billion gallons of water to our watersheds in 2024.
+
+As a result of our efforts, we maintained net positive water in the US, India, Costa Rica, and Mexico.
+
+WASTE AND CIRCULAR ECONOMY SOLUTIONS
+
+The majority of Intel's waste originates from construction and manufacturing activities. Our focus on improved management of waste results in materials being kept in use longer and avoiding landfill disposal.
+
+Our 2030 goal is to achieve zero waste to landfill and implement circular economy strategies for at least 60% of our manufacturing waste streams in collaboration with our suppliers. From 2023 to 2024, manufacturing waste increased by 9%, construction waste decreased 30%, and waste sent to landfill decreased by 31%. Additionally, circular strategies were applied for approximately 66% of our manufacturing waste.
+
+In 2024, we upcycled 87,100 tons, or approximately 66%, of our manufacturing waste.
+
+SUPPLY CHAIN SUSTAINABILITY
+
+Intel aims to reduce environmental impact and lower supply chain risk through engagement with our supply chain on environmental sustainability. We seek to work with our suppliers to decrease GHG emissions, water usage, and waste generated, and to implement circular economy strategies.
+
+In 2024, Intel continued to focus on advancing collective action to reduce GHG emissions across the semiconductor value chain through leadership roles in the Governing Council and Working Groups of the Semiconductor Climate Consortium (SCC). We also continued to support action on accelerating the transition to renewable electricity in the semiconductor supply chain as a founding co-sponsor of Catalyze.
+
+In 2024, Scope 3 emissions attributed to the supply chain were 7.5% higher compared to the previous year, and total upstream Scope 3 GHG emissions were 12% higher than the baseline 2021 total upstream Scope 3 emissions. Despite the modest increase, Intel remains dedicated to achieving net-zero upstream Scope 3 GHG emissions by 2050 and will continue to drive reduction of GHG emissions in the supply chain.
+
+In 2024, Intel asked nearly 140 first-tier suppliers to submit data on their GHG footprints, GHG emissions reduction initiatives, and climate change-related goals through the CDP Corporate Questionnaire. Of those suppliers, about 99% submitted the questionnaire, and approximately 94% of those suppliers made their responses public.
+
+ENVIRONMENTAL MANAGEMENT
+
+Since 2008, we have linked a portion of executive and employee compensation to corporate responsibility factors. Our 2024 bonus incorporated environmental-related metrics aligned to our 2030 and 2040 goals, including achieving 95% renewable electricity globally, reducing Scope 1 and 2 GHG emissions by 25,000 metric tons of carbon dioxide equivalent (CO2e), having two additional sites certified to ISO 50001, conserving and restoring 13.5 billion gallons of water, and achieving a ≥90% recycling rate of construction waste.
+
+We exceeded our renewable electricity goal, reaching 98% globally, and reduced our Scope 1 and 2 GHG emissions by 29,000 metric tons of CO2e. We also certified two additional manufacturing sites to ISO 50001, achieved a 95% recycling rate of construction waste, and nearly met our water goal by conserving and restoring 13.4 billion gallons of water.
+
+In 2024, for the fourth consecutive year, we achieved our green revolving credit facility targets for energy and water conservation.
+
+In 2024, we published our second Annual Green Bond Report, summarizing the allocation of $639 million of the $1.25 billion green bond proceeds across five project categories, including pollution prevention and control, water stewardship, energy efficiency, renewable electricity, circular economy, and waste. Projects that meet the eligibility criteria were estimated to reduce Intel's GHG emissions by 28 million metric tons of CO2e, save 11 billion gallons of water, and divert 74,000 tons of waste from landfills from 2021 to 2023.
+
+TECHNOLOGY
+
+Intel is first and foremost an engineering company. We are laser focused on developing the best products and earning our customers' trust by delivering the performance, quality, and reliability they need to succeed.
+
+2024 HIGHLIGHTS
+
+Responsible AI strategy: In 2024, we evolved our responsible AI strategy to reflect recent innovations and emerging risks. Key progress included operationalizing our new "Protect the Environment" principle, creating efficiencies in our governance process, and innovating in model evaluation tools for use in multi-stakeholder initiatives.
+
+Empowering the future workforce: As of the end of 2024—through more than 100 public-private partnerships and collaborations with 27,000 institutions—Intel Digital Readiness Programs had provided AI skills for 8 million people in 29 countries.
+
+465 social impact technology projects funded: Through the Intel Responsible Technology Initiative (IRTI), we have invested in 465 technology projects across 42 countries since 2020, addressing health and life sciences, education, social equity and human rights, accessibility, and sustainability.
+
+PRODUCT ENERGY EFFICIENCY
+
+Compute demand continues to drive increases in global energy consumption, making sustainable computing not only a corporate imperative, but also a global priority. With each new generation of products, Intel aims to offer higher performance and improved energy efficiency compared to previous generations, reducing the Scope 3 GHG emissions of our products in customer applications and overall energy consumption.
+
+Our 2030 goal is to increase product energy efficiency 10X for Intel client and server microprocessors to reduce our Scope 3 GHG emissions. We are on track to meet our 2030 client product energy-efficiency goals. In 2024, we introduced Intel Core Ultra (Series 2) mobile processors as well as Intel Core Ultra (Series 2) desktop processors that include more efficient cores compared to the prior generation. As a result, we improved product energy efficiency by 21% over 2023 and achieved greater than 4.0X improvement compared to the 2019 baseline.
+
+We are also on track to meet our 2030 server product energy-efficiency goals. In 2024, we released our Intel Xeon 6 processors with P-cores and E-cores. For Intel Xeon 6 processors with E-cores we achieved approximately 2.7X improvement and for Intel Xeon 6 processors with P-cores we achieved 3.0X in energy efficiency vs. the 2019 baseline.
+
+Intel has estimated the GHG emissions due to energy consumption by Intel processors sold in 2024. The annual and lifetime emissions of Intel processors when used in customers' compute applications equate to approximately 3,197,000 and 132,853,000 metric tons of CO2e, respectively.
+
+RESPONSIBLE AI
+
+We saw ever greater advancement in AI innovation in 2024, with generative AI, retrieval-augmented generation (RAG), and agentic AI at the forefront. Intel's goal is to support all AI models, including generative AI, with responsible perspectives and principles.
+
+In 2024, we evolved our responsible AI (RAI) strategy, which is centered along four pillars that represent what we consider the most effective ways for Intel to leverage its place in the AI value chain: internal and external governance, collaboration and research, products and solutions, and inclusive AI.
+
+Our Responsible AI Advisory Council considers risks according to Intel's seven RAI principles: respect human rights; promote inclusion; enable transparency and accountability; enable human oversight; design for privacy; advance security, safety, and reliability; and protect the environment.
+
+BROADENING PARTICIPATION IN THE TECHNOLOGY INDUSTRY
+
+As of the end of 2024, with over 100 public-private partnerships, Intel Digital Readiness programs had provided AI skills for 8 million people in 29 countries in collaboration with 27,000 institutions. We remain committed to advancing inclusion and accessibility for millions of people by providing the technology and skills needed to access educational, economic, and community resources in our digital economy.
+
+INTEL WORKFORCE AT A GLANCE (as of 12/28/2024):
+- 108,900 employees globally
+- 91.7% of our employees serve in technical roles
+- 5.9% undesired turnover in 2024
+
+Employees by Region:
+- 49.8% United States, Canada, and Latin America
+- 34.3% Asia Pacific
+- 15.9% Europe, Middle East, and Africa
+
+PERFORMANCE DATA SUMMARY
+
+Sustainability Performance 2024:
+- Greenhouse gas emissions (million metric tons of CO2 equivalent): 1.20
+- Renewable electricity (% of global electricity use): 98%
+- Energy use (billion kWh—includes electricity, gas, and diesel): 11.4
+- Total water withdrawn (billions of gallons): 11.1
+- Total water conserved (billions of gallons): 10.5
+- Net positive water progress: 106%
+- Total waste generated (thousand tons)/% to landfill: 264/4%
+- Manufacturing waste upcycled: 66%
+- Recovery rate on products returned to Intel: 62%
+
+Technology Performance 2024:
+- Client product energy efficiency improvement (compared to 2019 baseline): 4.0X
+- Server product energy efficiency improvement (compared to 2019 baseline): 2.7X/3.0X

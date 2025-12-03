@@ -1,0 +1,242 @@
+NVIDIA CORPORATION
+Q4 FISCAL YEAR 2025 EARNINGS CALL TRANSCRIPT
+February 26, 2025
+
+PARTICIPANTS:
+- Stewart Stecker, Senior Director, Investor Relations
+- Jensen Huang, President and Chief Executive Officer
+- Colette M. Kress, Chief Financial Officer, Executive Vice President
+
+PREPARED REMARKS
+
+Stewart Stecker:
+Thank you. Good afternoon, everyone, and welcome to NVIDIA's conference call for the fourth quarter of fiscal 2025. With me today from NVIDIA are Jensen Huang, president and chief executive officer; and Colette Kress, executive vice president and chief financial officer.
+
+I'd like to remind you that our call is being webcast live on NVIDIA's Investor Relations website. The webcast will be available for replay until the conference call to discuss our financial results for the first quarter of fiscal 2026. During this call, we may make forward-looking statements based on current expectations. These are subject to significant risks and uncertainties, and our actual results may differ materially.
+
+For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent forms 10-K and 10-Q. All our statements are made as of today, February 26, 2025. During this call, we will discuss non-GAAP financial measures. Find a reconciliation of these measures to GAAP financial measures in our CFO commentary, which is posted on our website.
+
+Colette M. Kress:
+Thanks, Stewart. Q4 was another record quarter. Revenue of $39.3 billion was up 12% sequentially and up 78% year on year and above our outlook of $37.5 billion. For fiscal 2025, revenue was $130.5 billion, up 114% from the prior year.
+
+DATA CENTER PERFORMANCE
+
+Data Center revenue for fiscal 2025 was $115.2 billion, more than doubling from the prior year. In the fourth quarter, Data Center revenue of $35.6 billion was a record, up 16% sequentially and 93% year on year as the Blackwell ramp commenced and Hopper 200 continued sequential growth.
+
+In Q4, Blackwell sales exceeded our expectations. We delivered $11 billion of Blackwell revenue to meet strong demand. This is the fastest product ramp in our company's history, unprecedented in its speed and scale. Blackwell production is in full gear across multiple configurations, and we are increasing supply quickly, expanding customer adoption.
+
+Our Q4 Data Center compute revenue jumped 18% sequentially and over 2x year on year. Customers are racing to scale infrastructure to train the next generation of cutting-edge models and unlock the next level of AI capabilities. With Blackwell, it will be common for these clusters to start with 100,000 GPUs or more. Shipments have already started for multiple infrastructures of this size.
+
+INFERENCE AND REASONING AI
+
+Post-training and model customization are fueling demand for NVIDIA infrastructure and software as developers and enterprises leverage techniques such as fine-tuning, reinforcement learning, and distillation to tailor models for domain-specific use cases. Hugging Face alone hosts over 90,000 derivatives created from the Llama foundation model. The scale of post-training and model customization is massive and can collectively demand orders of magnitude more compute than pretraining.
+
+Our inference demand is accelerating, driven by test time scaling and new reasoning models like OpenAI's o3, DeepSeek-R1, and Grok 3. Long-thinking reasoning AI can require 100x more compute per task compared to one-shot inferences. Blackwell was architected for reasoning AI inference. Blackwell supercharges reasoning AI models with up to 25x higher token throughput and 20x lower cost versus Hopper 100.
+
+Its revolutionary transformer engine is built for LLM and mixture of experts inference. Its NVLink Domain delivers 14x the throughput of PCIe Gen 5, ensuring the response time, throughput, and cost efficiency needed to tackle the growing complexity of inference at scale.
+
+CUSTOMER ADOPTION AND USE CASES
+
+Companies across industries are tapping into NVIDIA's full-stack inference platform to boost performance and slash costs. Notion tripled inference throughput and cut costs by 66% using NVIDIA TensorRT for its screenshot feature. Perplexity sees 435 million monthly queries and reduced its inference costs 3x with NVIDIA Triton Inference Server and TensorRT-LLM. Microsoft Bing achieved a 5x speed up at major TCO savings for visual search across billions of images.
+
+Blackwell has great demand for inference. Many of the early GB200 deployments are earmarked for inference, a first for a new architecture. Blackwell addresses the entire AI market from pretraining, post-training to inference across cloud, on-premise, to enterprise.
+
+CUDA ECOSYSTEM
+
+CUDA's programmable architecture accelerates every AI model and over 4,400 applications, ensuring large infrastructure investments against obsolescence in rapidly evolving markets. Our performance and pace of innovation is unmatched. We've driven a 200x reduction in inference costs in just the last two years. We deliver the lowest TCO and the highest ROI. Full stack optimizations from NVIDIA and our large ecosystem, including 5.9 million developers, continuously improve our customers' economics.
+
+CUSTOMER SEGMENTS
+
+In Q4, large CSPs represented about half of our data center revenue, and these sales increased nearly 2x year on year. Large CSPs were some of the first to stand up Blackwell with Azure, GCP, AWS, and OCI bringing GB200 systems to cloud regions around the world to meet surging customer demand for AI.
+
+Regional cloud hosting NVIDIA GPUs increased as a percentage of data center revenue, reflecting continued AI factory build-outs globally and rapidly rising demand for AI reasoning models and agents. We've launched 100,000 GB200 cluster-based systems with NVLink Switch and Quantum 2 InfiniBand.
+
+Consumer Internet revenue grew 3x year on year, driven by an expanding set of generative AI and deep learning use cases including recommender systems, vision, language understanding, synthetic data generation, search, and agentic AI. xAI is adopting the GB200 to train and inference its next generation of Grok AI models. Meta's cutting-edge Andromeda advertising engine runs on NVIDIA's Grace Hopper Superchip, harnessing fast interconnect and large memory to boost inference throughput by 3x.
+
+Enterprise revenue increased nearly 2x year on year driven by accelerating demand for model fine-tuning, RAG, and agentic AI workflows, and GPU-accelerated data processing. We introduced NVIDIA Llama Nemotron model family NIMs to help developers create and deploy AI agents. Leading AI agent platform providers, including SAP and ServiceNow, are among the first to use new models.
+
+Health care leaders IQVIA, Illumina, Mayo Clinic, and Arc Institute are using NVIDIA AI to speed drug discovery, enhanced genomic research, and pioneer advanced healthcare services with generative and agentic AI.
+
+ROBOTICS AND AUTOMOTIVE
+
+As AI expands beyond the digital world, NVIDIA infrastructure and software platforms are increasingly being adopted to power robotics and physical AI development. One of the early and largest robotics applications is autonomous vehicles where virtually every AV company is developing on NVIDIA in the data center, the car, or both.
+
+NVIDIA's automotive vertical revenue is expected to grow to approximately $5 billion this fiscal year. At CES, Hyundai Motor Group announced it is adopting NVIDIA technologies to accelerate AV and robotics development and smart factory initiatives. Vision transformers, self-supervised learning, multimodal sensor fusion, and high-fidelity simulation are driving breakthroughs in AV development and will require 10x more compute.
+
+At CES, we announced the NVIDIA COSMOS World Foundation model platform. Just as language foundation models have revolutionized Language AI, Cosmos is for physical AI to revolutionize robotics. Robotics and automotive companies, including ridesharing giant Uber, are among the first to adopt the platform.
+
+GEOGRAPHIC PERFORMANCE
+
+From a geographic perspective, sequential growth in our Data Center revenue was strongest in the U.S., driven by the initial ramp up of Blackwell. Countries across the globe are building their AI ecosystem as demand for compute infrastructure is surging. France's EUR 100 billion AI investment and the EU's EUR 200 billion invest AI initiatives offer a glimpse into the build-out to redefine global AI infrastructure in the coming years.
+
+As a percentage of total Data Center revenue, data center sales in China remained well below levels seen at the onset of export controls. Absent any change in regulations, we believe that China shipments will remain roughly at the current percentage. The market in China for data center solutions remains very competitive. We will continue to comply with export controls while serving our customers.
+
+NETWORKING
+
+Networking revenue declined 3% sequentially. Our networking attached to GPU compute systems is robust at over 75%. We are transitioning from small NVLink 8 with InfiniBand to large NVLink 72 with Spectrum-X. Spectrum-X and NVLink Switch revenue increased and represents a major new growth vector. We expect networking to return to growth in Q1.
+
+AI requires a new class of networking. NVIDIA offers NVLink Switch systems for scale-up compute. For scale-out, we offer Quantum InfiniBand for HPC supercomputers and Spectrum-X for Ethernet environments. Spectrum-X enhances Ethernet for AI computing and has been a huge success. Microsoft Azure, OCI, CoreWeave, and others are building large AI factories with Spectrum-X.
+
+The first Stargate data centers will use Spectrum-X. Yesterday, Cisco announced integrating Spectrum-X into their networking portfolio to help enterprises build AI infrastructure. With its large enterprise footprint and global reach, Cisco will bring NVIDIA Ethernet to every industry.
+
+GAMING
+
+Gaming revenue of $2.5 billion decreased 22% sequentially and 11% year on year. Full-year revenue of $11.4 billion increased 9% year on year. Demand remains strong throughout the holiday. However, Q4 shipments were impacted by supply constraints. We expect strong sequential growth in Q1 as supply increases.
+
+The new GeForce RTX 50 Series desktop and laptop GPUs are here. Built for gamers, creators, and developers, they fuse AI and graphics redefining visual computing. Powered by the Blackwell architecture, fifth-generation Tensor cores, and fourth-generation RT cores and featuring up to 400 AI TOPS, these GPUs deliver a 2x performance leap and new AI-driven rendering including neuro shaders, digital human technologies, geometry, and lighting.
+
+The new DLSS 4 boosts frame rates up to 8x with AI-driven frame generation, turning one rendered frame into three. It also features the industry's first real-time application of transformer models packing 2x more parameters and 4x compute for unprecedented visual fidelity.
+
+We announced a wave of GeForce Blackwell laptop GPUs with new NVIDIA Max-Q technology that extends battery life by up to an incredible 40%. These laptops will be available starting in March from the world's top manufacturers.
+
+PROFESSIONAL VISUALIZATION
+
+Revenue of $511 million was up 5% sequentially and 10% year on year. Full-year revenue of $1.9 billion increased 21% year on year. Key industry verticals driving demand include automotive and healthcare. NVIDIA Technologies and generative AI are reshaping design, engineering, and simulation workloads. These technologies are being leveraged in leading software platforms from ANSYS, Cadence, and Siemens, fueling demand for NVIDIA RTX workstations.
+
+AUTOMOTIVE
+
+Revenue was a record $570 million, up 27% sequentially and up 103% year on year. Full-year revenue of $1.7 billion increased 5% year on year. Strong growth was driven by the continued ramp in autonomous vehicles, including cars and robotaxis.
+
+At CES, we announced Toyota, the world's largest automaker, will build its next-generation vehicles on NVIDIA Orin running the safety-certified NVIDIA DriveOS. We announced Aurora and Continental will deploy driverless trucks at scale powered by NVIDIA Drive Thor. Our end-to-end autonomous vehicle platform NVIDIA Drive Hyperion has passed industry safety assessments like TUV SUD and TUV Rheinland. NVIDIA is the first AV platform that received a comprehensive set of third-party assessments.
+
+FINANCIAL METRICS
+
+GAAP gross margin was 73% and non-GAAP gross margin was 73.5%, down sequentially as expected with our first deliveries of the Blackwell architecture. As discussed last quarter, Blackwell is a customizable AI infrastructure with several different types of NVIDIA-built chips, multiple networking options, and both air and liquid-cooled data centers.
+
+We exceeded our expectations in Q4 in ramping Blackwell, increasing system availability, providing several configurations to our customers. As Blackwell ramps, we expect gross margins to be in the low 70s. Initially, we are focused on expediting the manufacturing of Blackwell systems to meet strong customer demand as they race to build out Blackwell infrastructure.
+
+When fully ramped, we have many opportunities to improve the cost, and gross margin will improve and return to the mid-70s late this fiscal year.
+
+Sequentially, GAAP operating expenses were up 9% and non-GAAP operating expenses were 11%, reflecting higher engineering development costs and higher compute and infrastructure costs for new product introductions.
+
+In Q4, we returned $8.1 billion to shareholders in the form of share repurchases and cash dividends.
+
+OUTLOOK FOR Q1 FY2026
+
+Total revenue is expected to be $43 billion, plus or minus 2%. Continuing with strong demand, we expect a significant ramp of Blackwell in Q1. We expect sequential growth in both Data Center and Gaming. Within Data Center, we expect sequential growth from both compute and networking.
+
+GAAP and non-GAAP gross margins are expected to be 70.6% and 71%, respectively, plus or minus 50 basis points. GAAP and non-GAAP operating expenses are expected to be approximately $5.2 billion and $3.6 billion, respectively. We expect full-year fiscal year 2026 operating expenses growth to be in the mid-30s.
+
+GAAP and non-GAAP other income and expenses are expected to be an income of approximately $400 million, excluding gains and losses from non-marketable and publicly held equity securities. GAAP and non-GAAP tax rates are expected to be 17%, plus or minus 1%, excluding any discrete items.
+
+QUESTIONS AND ANSWERS SESSION
+
+Q: Test-Time Compute and Inference Clusters (C.J. Muse, Cantor Fitzgerald)
+
+Jensen Huang:
+There are now multiple scaling laws. There's the pre-training scaling law, which continues to scale with multimodality and data from reasoning used for pretraining. The second is post-training scaling using reinforcement learning. The amount of computation for post-training is actually higher than pretraining. AI models generate tokens to train AI models.
+
+The third part is test-time compute or reasoning, long thinking, inference scaling. The amount of tokens generated, the amount of inference compute needed is already 100x more than one-shot examples. This is just the beginning. The next generation could require thousands of times, even hundreds of thousands, millions of times more compute.
+
+Some models are auto-regressive, some are diffusion-based. Sometimes you want disaggregated inference, sometimes compacted. It's hard to figure out the best configuration of a data center, which is why NVIDIA's architecture is so popular. We run every model. The vast majority of our compute today is actually inference, and Blackwell takes all of that to a new level.
+
+Blackwell was designed with reasoning models in mind. For long thinking test time scaling, reasoning AI models, we're tens of times faster, 25x higher throughput. Blackwell is incredible across the board. Our architecture is fungible and easy to use in all different ways. We're seeing much more concentration of a unified architecture than ever before.
+
+Q: GB200 Ramp and NVL72 Platforms (Joe Moore, Morgan Stanley)
+
+Jensen Huang:
+I'm more enthusiastic today than I was at CES because we've shipped a lot more since then. We have some 350 plants manufacturing the 1.5 million components that go into each Blackwell rack. It's extremely complicated, and we successfully ramped up Grace Blackwell, delivering $11 billion of revenues last quarter.
+
+Customers are anxious and impatient to get their Blackwell systems. You've seen celebrations about Grace Blackwell systems coming online. We have a large installation for our own engineering, design teams, and software teams. CoreWeave has been public about their successful bring-up. Microsoft has, OpenAI has, and many more are coming online.
+
+Nothing is easy about what we're doing, but we're doing great, and all of our partners are doing great.
+
+Q: Gross Margin Bottom and DeepSeek Impact (Vivek Arya, Bank of America)
+
+Colette Kress:
+During our Blackwell ramp, our gross margins will be in the low 70s. We are focusing on expediting manufacturing to provide to customers as soon as possible. Once Blackwell is fully ramped, we can improve our cost and gross margin. We expect to be in the mid-70s later this year.
+
+These are customizable systems with multiple networking options, liquid-cooled and air-cooled. There's opportunity to improve gross margins going forward. Right now, we're focusing on getting manufacturing complete and to customers as soon as possible.
+
+Jensen Huang:
+We have a fairly good line of sight on the amount of capital investment data centers are building toward. We know that the vast majority of software going forward will be based on machine learning. We have forecasts and plans from our top partners. There are many innovative, exciting start-ups still coming online.
+
+Whether near-term signals (POs and forecasts), midterm signals (infrastructure and capex scale-out), or long-term signals (fundamental software change from hand-coding to machine learning), we have a good sense this is the future of software.
+
+We've only tapped consumer AI, search, some consumer generative AI, advertising, recommenders. The next wave is coming: agentic AI for enterprise, physical AI for robotics, and sovereign AI as different regions build out their AI ecosystems. Each of these are barely off the ground.
+
+Q: Blackwell Ultra Launch Timeline (Harlan Sur, JPMorgan)
+
+Jensen Huang:
+Yes, Blackwell Ultra is second half. The first Blackwell had a hiccup that probably cost us a couple of months. We've fully recovered. The team did an amazing job, and now we've successfully ramped production of Blackwell.
+
+Blackwell Ultra is on an annual rhythm with new networking, new memories, and new processors coming online. We've been working with all partners and customers, laying this out. The transition from Blackwell to Blackwell Ultra is easier because the system architecture is exactly the same. It was harder going from Hopper to Blackwell because we went from NVLink 8 to NVLink 72-based system.
+
+Blackwell Ultra will slot right in. We've already revealed and been working closely with partners on the click after that: Vera Rubin. Come to GTC, and I'll talk about Blackwell Ultra, Vera Rubin, and what comes after that.
+
+Q: Custom ASICs vs. Merchant GPUs (Timothy Arcuri, UBS)
+
+Jensen Huang:
+We build very different things than ASICs. We're different in several ways. NVIDIA's architecture is general - whether you've optimized for autoregressive models, diffusion-based models, vision-based models, multimodal models, or text models. We're great in all of it because our software stack is so rich that we're the initial target of most exciting innovations and algorithms.
+
+We're general, we're end-to-end, and we're everywhere. We're not in just one cloud, we're in every cloud, we can be on-prem, we can be in a robot. Our architecture is much more accessible and a great initial target for anybody starting up a new company.
+
+Our performance and rhythm is incredibly fast. These data centers are fixed in size or power. If our performance per watt is 2x to 4x to 8x, it translates directly to revenues. AI factories are directly monetizable through tokens generated. Our token throughput being incredibly fast is valuable to all companies building these for revenue generation and fast ROI.
+
+The software stack is incredibly hard. Building an ASIC is no different than what we do - we build a new architecture. The ecosystem on top of our architecture is 10 times more complex today than two years ago. Bringing that whole ecosystem on top of multiple chips is hard.
+
+Just because a chip is designed doesn't mean it gets deployed. A business decision has to be made about deploying a new engine into a limited AI factory. Our technology is not only more advanced and more performance, it has much better software capability and our ability to deploy is lightning fast.
+
+Q: Geographic Mix and U.S. Growth (Ben Reitzes, Melius Research)
+
+Jensen Huang:
+China is approximately the same percentage as Q4 and previous quarters. It's about half of what it was before export control. With respect to geographies, the takeaway is that AI is software - incredible modern software. AI has gone mainstream. AI is used in delivery services, shopping services everywhere. Almost everything a consumer service provides has AI at the core.
+
+Every student will use AI as a tutor. Healthcare services use AI, financial services use AI. No fintech company will not use AI. Climate tech, mineral discovery, universities - all use AI. AI has gone mainstream and is being integrated into every application.
+
+Behind us have been decades of data centers built for hand coding and general-purpose computing and CPUs. Going forward, all software will be infused with AI. All services will be based on machine learning. The future computers will be accelerated, will be based on AI. We're really two years into that journey in modernizing computers that have taken decades to build out. We're in the beginning of this new era.
+
+No technology has ever had the opportunity to address a larger part of the world's GDP than AI. This is a software tool that can address a much larger part of the world's GDP than any time in history. When you take a step back and look at it from that perspective, we're really just in the beginning.
+
+Q: Enterprise Growth vs. Hyperscalers (Mark Lipacis, Evercore ISI)
+
+Colette Kress:
+Enterprise within data center grew 2x year on year, very similar to what we were seeing with large CSPs. Both are important areas. Working with CSPs can be on large language models, inference in their own work. That's also where enterprises are servicing. Enterprises are both with CSPs and building on their own. They're both growing quite well.
+
+Jensen Huang:
+CSPs are about half of our business with internal and external consumption. We work very closely with all of them to optimize workloads. We're fungible - used for AI, video processing, data processing like Spark. The useful life of our infrastructure is much better, so TCO is lower.
+
+Long term, enterprise or non-CSPs will be by far larger. When we say enterprise, let's use a car company as example. Employees will have agentic AI for productivity - to design, market, plan, operate their company. Cars they manufacture also need AI - an AI system that trains the cars, the entire giant fleet. Today there's 1 billion cars on the road. Someday every single one will be robotic cars collecting data, improving using an AI factory.
+
+Inside the car itself is a robotic system. Three computers are involved: the computer that helps people, the computer that builds AI for machinery, and robotic systems. These physical systems require physical AI - they have to understand the world, friction, inertia, object permanence, cause and effect.
+
+Using agentic AI to revolutionize how we work inside companies is just starting. This is the beginning of the agentic AI era. Then there's physical AI and robotic systems after that. These three computers are all brand new. Long term, this will be by far the larger part, which makes sense. The world's GDP is represented by heavy industries or industrials and companies providing for those.
+
+Q: Infrastructure Refresh Cycles (Aaron Rakers, Wells Fargo)
+
+Jensen Huang:
+People are still using Voltas, Pascals, and Amperes. There are always things that, because CUDA is so programmable, you could use. Blackwell, one of the major use cases right now, is data processing and data curation. You can use Amperes to do data processing, data curation, machine learning-based search. Create the training data set, present to Hopper systems for training.
+
+Each architecture is CUDA-compatible, so everything runs on everything. If you have infrastructure in place, you can put less intensive workloads onto the installed base of the past. All are very well employed.
+
+Q: Gross Margin Trajectory (Atif Malik, Citi)
+
+Colette Kress:
+Our gross margins are quite complex with tremendous opportunity to look at different pieces and improve over time. We have many different configurations of Blackwell that will help us. Together, after we get strong ramping completed for customers, we can begin that work. If we can improve it in the short term, we will also do that.
+
+Tariff is unknown until we understand further what the U.S. government's plan is - timing, where, and how much. We are awaiting, but would of course always follow export controls and/or tariffs.
+
+CLOSING REMARKS
+
+Jensen Huang:
+Thank you. The demand for Blackwell is extraordinary. AI is evolving beyond perception and generative AI into reasoning. With reasoning AI, we're observing another scaling law: inference time or test time scaling. More computation, the more the model thinks, the smarter the answer.
+
+Models like OpenAI, Grok 3, DeepSeek-R1 are reasoning models that apply inference time scaling. Reasoning models can consume 100x more compute. Future reasoning models can consume much more. DeepSeek-R1 has ignited global enthusiasm. It's an excellent innovation, but even more importantly, it has open-sourced a world-class reasoning AI model.
+
+Nearly every AI developer is applying R1 or chain of thought and reinforcement learning techniques to scale their model's performance. We now have three scaling laws driving demand for AI computing:
+
+1. Traditional scaling of AI remains intact. Foundation models are being enhanced with multimodality, and pretraining is still growing.
+
+2. Post-training scaling, where reinforcement learning, fine-tuning, model distillation require orders of magnitude more compute than pretraining alone.
+
+3. Inference time scaling and reasoning where a single query can demand 100x more compute.
+
+We designed Blackwell for this moment - a single platform that can easily transition from pre-training, post-training, and test time scaling. Blackwell's FP4 transformer engine and NVLink 72 scale-up fabric and new software technologies let Blackwell process reasoning AI models 25 times faster than Hopper.
+
+Blackwell in all configurations is in full production. Each Grace Blackwell NVLink 72 rack is an engineering marvel: 1.5 million components produced across 350 manufacturing sites by nearly 100,000 factory operators.
+
+AI is advancing at light speed. We're at the beginning of reasoning AI and inference time scaling. But we're just at the start of the age of AI. Multimodal AIs, enterprise AI, sovereign AI, and physical AI are right around the corner. We will grow strongly in 2025.
+
+Going forward, data centers will dedicate most of capex to accelerated computing and AI. Data centers will increasingly become AI factories, and every company will have either rented or self-operated.
+
+Come join us at GTC in a couple of weeks. We're going to be talking about Blackwell Ultra, Rubin, and other new computing, networking, reasoning AI, physical AI products, and a whole bunch more. Thank you.

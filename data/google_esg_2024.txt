@@ -1,0 +1,173 @@
+GOOGLE / ALPHABET INC.
+ENVIRONMENTAL REPORT 2024
+Tenth Annual Report
+
+INTRODUCTION AND FOREWORD
+
+At Google, we're applying AI to transform how people engage with information across our core products and platforms, to enhance business and economic growth, to enable scientific breakthroughs, and to drive sustainable innovation for society. We're proud to release our tenth annual Environmental Report, which details how we're working to address the increased energy demands of AI to enable this positive impact, while also showcasing how AI can be used to build a more energy-efficient and resilient world.
+
+These three topics—energy, AI, and resilience—are the key themes of this year's report. Within these pages, we detail our 2024 progress, offering our perspective and insights from a year marked by unprecedented global change driven by AI, energy demand, policy, and more.
+
+KEY THEME 1: ENERGY
+
+We reduced our data center energy emissions by 12%, even with growing energy demands.
+
+Reliable and abundant energy can help power global prosperity and expand economic opportunity. This requires bringing more energy online, optimizing how we use it, advancing new energy solutions, and partnering with suppliers as they make progress toward clean energy. At Google, through a combination of these efforts, we reduced our data center energy emissions by 12% in 2024—even in the face of increased energy demands—while building for the future through new advanced energy innovations and deeper supplier engagement.
+
+CLEAN ENERGY PROCUREMENT
+
+We added new clean energy generation by signing contracts for 8 GW and bringing 2.5 GW online in 2024 alone.
+
+Google's work to accelerate clean energy began in 2010 when we signed our first power purchase agreement (PPA). Since then, from 2010 to 2024, we've signed more than 170 agreements to purchase over 22 GW of clean energy generation, similar to Portugal's total renewable energy in 2024. In 2024 alone, Google signed contracts to purchase over 8 GW of additional clean energy generation—the largest annual total in our history and twice the volume we contracted for the prior year.
+
+We've maintained a 100% renewable energy match on a global basis every year since 2017, and are going even further by pursuing our 24/7 carbon-free energy (CFE) ambition (one of our climate moonshots). In 2024, we increased our 24/7 CFE percentage from 64% to 66%, and nine out of 20 grid regions with Google-owned and -operated data centers achieved at least 80% CFE.
+
+DATA CENTER EFFICIENCY
+
+We innovated across hardware and software to enable our data centers to deliver six times more computing power per unit of electricity than they did just five years ago.
+
+We want to use energy in the most efficient way possible—which is good for both our business and the planet. Google data centers—which power all of our products including Search, YouTube, Google Cloud, Gemini, and more—are some of the most efficient in the world. They deliver over six times more computing power per unit of electricity than they did just five years ago. This is in part thanks to pioneering hardware innovations. As just one example, Google's seventh-generation Tensor Processing Unit (TPU), Ironwood, is nearly 30 times more power efficient than our first Cloud TPU from 2018.
+
+ADVANCED ENERGY PARTNERSHIPS
+
+We pushed the frontiers of advanced energy development and grid optimization to ensure reliable, abundant power for everyone, and to fuel the next wave of innovation and economic growth.
+
+Google signed a first-of-a-kind partnership to unlock new, clean power from a series of small modular nuclear reactors, which will be developed by Kairos Power. We also partnered with a clean energy startup to develop a geothermal power project in Nevada that's now contributing carbon-free energy to the electric grid. A collaboration between Google, Tapestry, and grid operator PJM aims to develop AI-driven data capabilities for a smarter, more reliable electricity system. It'll also speed up grid interconnection—with the goal of making electricity more reliable and affordable for the 67 million people PJM serves in the United States.
+
+SUPPLIER ENGAGEMENT
+
+We worked with our suppliers to accelerate their path to 100% clean electricity.
+
+While we're encouraged by our operational progress, obstacles to decarbonizing our supply chain remain. Bringing new clean energy online for Google and our suppliers is particularly difficult in the Asia-Pacific region, where wind and solar resources aren't readily accessible in many markets.
+
+To help address these challenges, the Google Clean Energy Addendum (CEA) has become central to our work with suppliers. This agreement asks them to commit to a 100% clean electricity match for the electricity they use to manufacture Google products. Many key suppliers have signed our CEA as of the end of 2024. Building on this progress, in 2025 we collaborated directly with a major hardware supplier in Japan to transition its Google product production to be matched with 100% clean electricity.
+
+CLIMATE MOONSHOTS PROGRESS
+
+We made progress toward our climate moonshots, which require broader change.
+
+While we remain committed to our climate moonshots, it's become clear that achieving them is now more complex and challenging across every level. Even though we've successfully reduced our data center energy emissions, supply chain emissions have risen. Additional external factors—largely outside our direct control—are converging to create significant uncertainty, including the slower-than-needed deployment of CFE technologies, AI's energy demands, policy uncertainties, resource-challenged markets, and more.
+
+KEY THEME 2: AI PRODUCTS
+
+Our products enabled others to reduce 26 million tCO2e emissions.
+
+AI isn't just a tool—it's a catalyst. It's helping people make smarter decisions faster, and its potential to help manage emissions in key sectors—like transportation and energy—is transformational. With this in mind, we've set an aspiration to help individuals, cities, and other partners collectively reduce 1 gigaton (GT) of their carbon equivalent emissions annually by 2030.
+
+In 2024 alone, just five of Google's products—Nest thermostats, Google Earth Pro, Solar API, fuel-efficient routing in Google Maps, and Green Light (which represent only a subset of our efforts)—enabled others to collectively reduce an estimated 26 million metric tons of greenhouse gas emissions (tCO2e), roughly equivalent to the emissions from the annual energy use of over 3.5 million U.S. homes. For context, Google's total emissions in 2024 were 11.5 million tCO2e.
+
+ENERGY PRODUCTS
+
+In energy, three products enabled others to reduce approximately 24 million tCO2e emissions.
+
+We estimate that our Nest thermostats helped customers cumulatively save more than 162 billion kWh of energy from 2011 to 2024, which is more than the total annual electricity consumption of Poland in 2023. Google Earth Pro helps solar and wind developers accelerate clean energy project development by evaluating potential sites and streamlining site design and construction estimates. On an annual accounting basis, we estimate that 0.6 million metric tons of GHG emissions reductions were enabled by solar panels installed by our partners using the Solar API in the United States in 2024.
+
+TRANSPORTATION PRODUCTS
+
+In transportation, two products enabled others to reduce over 2 million tCO2e emissions.
+
+We estimate that our AI-powered fuel-efficient routing in Google Maps saved users fuel and cumulatively enabled more than 2.7 million metric tons of GHG emissions reductions in 2024 alone—that's equivalent to taking approximately 630,000 gasoline-powered cars off the road for a year. Google researchers also built Green Light, an AI-based tool that helps city traffic engineers optimize the timing of traffic lights, which has shown the potential to reduce stops at intersections by up to 30% and reduce emissions at intersections by an average of over 10%.
+
+KEY THEME 3: RESILIENCE
+
+Our innovative research is bolstering resilience to protect communities, save lives, and reduce damage-related costs.
+
+Over the last ten years (2015–2024), the United States alone experienced 190 separate billion-dollar weather and climate disasters totaling $1.4 trillion in damage. At Google, we're developing advanced AI-powered tools to help people prepare, adapt, recover, and build resilience in these critical moments.
+
+FIRESAT
+
+FireSat, with its first satellite launched in March 2025, will enhance wildfire detection and response.
+
+FireSat is a partner-driven constellation of high-resolution multispectral satellite imagery and AI that will provide near real-time insights on wildfires, enabling faster detection and giving first responders a better understanding of a situation as it unfolds.
+
+FLOOD HUB
+
+Flood Hub predicts riverine floods up to seven days in advance.
+
+Google's Flood Hub displays forecasts for riverine floods around the world based on a breakthrough global hydrological AI model. It predicts floods up to seven days in advance in over 100 countries, covering territories where more than 700 million people live.
+
+WEATHERNEXT
+
+WeatherNext Graph provides single, precise predictions 10 days in advance.
+
+The WeatherNext family of AI models from Google DeepMind and Google Research produces state-of-the-art weather forecasts, learning directly from vast amounts of historical weather data to generate affordable, fast, and accurate weather prediction—often 10 to 15 days in advance.
+
+Tools like Google Earth Engine, Global Fishing Watch, and Environmental Insights Explorer also provide valuable information for conservation, restoration, and environmental management efforts. These technologies aren't just scientific innovations—they can save lives and enable communities to recover faster in the face of disaster.
+
+2024 HIGHLIGHTS
+
+OPERATIONAL ACHIEVEMENTS
+
+Reduced data center energy emissions by 12%: We reduced our data center energy emissions by 12% compared to 2023, despite a 27% increase in our electricity consumption.
+
+Procured over 8 GW of clean energy: We signed contracts to purchase over 8 gigawatts of additional clean energy generation—more than in any prior year.
+
+Partnered to enable 1 GW of solar in Taiwan: We announced a partnership with BlackRock's Climate Infrastructure business that will enable 1 GW of new solar energy in Taiwan.
+
+Eliminated plastic from product packaging: Packaging for new Google products launched and manufactured in 2024 was 100% plastic-free.
+
+Improved TPU power efficiency by 30x from 2018: Ironwood—the first Google TPU designed to power thinking, inferential AI models at scale—is nearly 30 times more power efficient than our first Cloud TPU from 2018.
+
+Replenished 64% of freshwater consumption: Our water stewardship projects replenished approximately 4.5 billion gallons of water (17 billion liters) in 2024 alone, roughly 64% of our freshwater consumption.
+
+PRODUCT IMPACT
+
+Reached 1 billion users to inform sustainable choices: For the past three years, we've provided information to over 1 billion users to help them make more sustainable choices annually through our products.
+
+Enabled 26 million tCO2e emissions reductions: Five of our products enabled individuals, cities, and other partners to collectively reduce an estimated 26 million metric tons of GHG emissions.
+
+Launched the first FireSat satellite: The first satellite for the FireSat constellation launched and officially made contact with Earth, designed to use AI to detect and track wildfires as small as a garage.
+
+Expanded fuel-efficient routing worldwide: As of January 2025, fuel-efficient routing in Google Maps is available globally.
+
+GLOBAL CHALLENGES AND DEPENDENCIES
+
+Growing demand for digital services: As AI and other technologies expand, the demand for digital services has grown rapidly, creating demand for data centers that require increased energy for operations and water for cooling.
+
+Market barriers to sourcing carbon-free energy: Companies face barriers when sourcing carbon-free energy including constrained transmission grids, higher costs for clean energy, fragmented electricity grids, energy technologies in varying states of maturity, and regulatory considerations.
+
+Data gaps and evolving standards: Gathering accurate data on indirect emissions from supply chains remains challenging. Regulations and reporting standards continue to evolve, creating complexity for companies.
+
+Turning corporate action into real impact on nature: The biodiversity crisis requires real, on-the-ground action. Translating corporate actions into measurable results can be challenging due to complexity of local contexts and lack of standardized metrics.
+
+AGE OF AI
+
+POWERING PROSPERITY
+
+The economic upside of AI and the energy required to power it.
+
+AI is fueling progress across sectors—from accelerating innovation in advanced energy technologies and optimizing grid systems to improving energy security and advancing areas like materials science and energy production forecasting. To realize its promise, AI itself needs energy to power these solutions.
+
+The rise in energy consumption isn't only about AI—it's a symptom of a bigger shift happening across the globe. As the digital economy expands, so does our collective need for electricity. It's not just data centers driving this demand; industrial production, electrification of industries, and increasing cooling needs amid record-breaking temperatures all contribute.
+
+Economists have long found a direct causal relationship between energy consumption and economic growth. Energy is a key driver of productivity and income. Technological development drives growth and prosperity, and AI is poised to be a central driver of the next wave of expansion.
+
+In 2024, data centers made up just 1.5% of global electricity consumption. They're projected to account for about one-tenth of the growth in global electricity demand by 2030. Despite this growth, data centers are projected to represent only about 3% of total global electricity demand in 2030, while delivering an outsized contribution to economic growth and scientific advancement.
+
+AI'S NET-POSITIVE POTENTIAL
+
+The International Energy Agency (IEA) estimates that by 2035, widespread adoption of existing AI applications could lead to emissions reductions nearly three to five times greater than projected data center emissions. Furthermore, the IEA projects that in a scenario with broad implementation, existing AI applications could potentially reduce emissions by around 4% of global energy-related emissions in 2035.
+
+Our approach to AI development is twofold: focused on breakthrough innovation while diligently managing the environmental impact and energy consumption of this powerful technology.
+
+The Solar API serves as one example. In the United States alone, the Solar API supported installations in 2024 that we estimate will help enable partners to reduce around 6 million metric tons of lifetime GHG emissions, which is about 6,000 times greater than the approximately 1,000 metric tons of GHG emissions from the model's compute in 2024.
+
+AI EFFICIENCY GAINS
+
+Models: We've sped up AI model training through techniques like quantization, boosting large-language model training efficiency by 39% on Cloud TPU v5e. Gemini 2.5 Flash is our first fully hybrid reasoning model, giving developers the ability to turn thinking on or off.
+
+For model deployment, we've improved underlying ML efficiency through techniques like blockwise parallel decoding, improved confidence-based deferral, and speculative decoding that reduce inference times of LLMs. Gemini 1.5 Pro delivers dramatic improvements and achieves comparable quality to Gemini 1.0 Ultra while using less compute.
+
+TPUs: For a decade, Google's AI innovations have been powered by custom-built TPUs (Tensor Processing Units). Ironwood, our seventh-generation TPU, is built specifically for inference. Its performance per watt is double that of Trillium, our sixth-generation TPU. Ironwood is nearly 30 times more power efficient than our first Cloud TPU from 2018.
+
+Trillium delivers 67% more energy efficiency than the previous TPU v5e and delivers 14 times more compute per watt of power compared to the first generation of Cloud TPUs. Google Axion Processors, our first custom CPU designed for the data center, are up to 60% more energy efficient than comparable current-generation x86-based instances.
+
+We published a first-of-its-kind study on the lifetime emissions of our TPU hardware—from raw material extraction and manufacturing to energy consumption during operation. The results show a threefold improvement in the Compute Carbon Intensity of our TPU chips over four years, from TPU v4 to Trillium.
+
+Infrastructure: We've built world-leading efficient infrastructure for the AI era and use AI itself to enhance efficiency. We announced AlphaEvolve, an evolutionary coding agent powered by large language models for general-purpose algorithm discovery and optimization. AlphaEvolve enhanced the efficiency of our data centers, chip design, and AI training processes.
+
+One of AlphaEvolve's solutions to help orchestrate Google's data centers more efficiently continuously recovers, on average, 0.7% of Google's worldwide compute resources. This sustained efficiency gain means that at any given moment, more tasks can be completed on the same computational footprint.
+
+CONCLUSION
+
+We're proud of the solutions we're building, the progress we're making, and the impact we're achieving with our products and partners. We believe that by continuing to push AI innovation forward, we can help address the significant challenges facing people and the planet.

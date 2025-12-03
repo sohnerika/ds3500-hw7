@@ -1,0 +1,202 @@
+NETFLIX, INC.
+Q4 2024 EARNINGS CALL TRANSCRIPT
+January 21, 2025
+
+PARTICIPANTS:
+- Spencer Wang, Vice President, Finance, Investor Relations, and Corporate Development
+- Theodore A. Sarandos, Co-Chief Executive Officer
+- Gregory K. Peters, Co-Chief Executive Officer  
+- Spencer Adam Neumann, Chief Financial Officer
+
+PREPARED REMARKS
+
+Spencer Wang:
+Good afternoon, and welcome to the Netflix Q4 2024 earnings interview. I'm Spencer Wang, vice president of finance, IR, and corporate development. Joining me today are co-CEOs, Ted Sarandos and Greg Peters; and CFO, Spence Neumann. As a reminder, we will be making forward-looking statements, and actual results may vary. We will now take questions submitted by the analyst community.
+
+QUESTIONS AND ANSWERS SESSION
+
+Q: Impact of L.A. Wildfires on Production (Dan Salmon, New Street Research)
+
+Theodore A. Sarandos:
+This is a really difficult time for a lot of people in Southern California. So many people in our industry, including our employees, were deeply impacted by these fires. The hardest-hit areas are heavily populated with folks we work with every single day. We're doing everything we can to help with relief and getting those folks who can back to work.
+
+To your question directly: no meaningful delays in delivery of projects and no meaningful impact to cash in 2025, but very meaningful disruption in people's lives. Our goal is to keep everything on schedule safely while being mindful of folks who need time to work through challenges including loss of life and home. This industry has been through COVID, the strikes, and now this. It's important that we try not to delay anything and keep these jobs safe.
+
+I'm extremely grateful to the firefighters and first responders still fighting flames. These are the real heroes. But to answer directly: no impact in 2025 on cash or deliverables, nothing meaningful.
+
+Q: Subscriber Growth Drivers - Jake Paul Fight and Christmas NFL Games (Jason Helfstein, Oppenheimer)
+
+Gregory K. Peters:
+Short answer: no. At a high level, we've seen broad strength across content categories, across all regions throughout the entire year. No single title drives a majority of our acquisition or engagement. Even in an amazing quarter with three huge live events (the fight, two NFL games), plus "Squid Game" season 2, our estimates for subscriber ads driven by those titles combined represent a small minority of total member acquisition in the quarter.
+
+It's really the whole service working that delivered the upside. The vast majority of net ads were driven by a broad slate and our portfolio globally.
+
+Theodore A. Sarandos:
+We've built the business on variety and quality across countries, regions, and genres. We focused year-round on having a very strong slate for our members. Some folks came in for the fight and games, but they stuck around for "Squid Game," "Carry-On," "Black Doves," "The Six Triple Eight," "Senna," and Nate Bargatze's comedy special. All performed really well.
+
+What's most encouraging is that retention behavior of those who came in for events looks a lot like folks who come in for all our other big titles. To translate into revenue growth meaningfully, everything has to work: product, pricing teams, marketing, advertising. We saw really strong execution across the board throughout the quarter and year.
+
+Q: Foreign Exchange Hedging Strategy (Steven Cahall, Wells Fargo)
+
+Spencer Adam Neumann:
+Roughly 60% of our revenue is in non-U.S. dollar currencies. Of that amount, we try to hedge roughly 50% on a rolling forward 12-month basis. We view hedging as a short- to medium-term solution at best. Our focus has always been managing underlying operating results through natural hedges where we can, plus pricing and cost structure over time.
+
+Our hedge program is really a price averaging program to smooth FX impact, reduce volatility from big near-term moves, and avoid short-term swings so we can invest appropriately for both short and long term.
+
+Q: Advertising Monetization Learnings and Hurdles (Brian Pitz, BMO Capital)
+
+Gregory K. Peters:
+First, we love our ads plan because it allows a lower price point for consumers. That's more choice and good accessibility that's proving popular. Q4 ads plan represented over 55% of signups across our ads countries. Membership on ads plans increased about 30% quarter over quarter (on top of 35% the quarter before).
+
+Engagement of ads members remains healthy. View hours per member on ads plan is similar to engagement on our standard nonads plan in our ads countries. We've met our scale goals for advertisers in 2025, so we're shifting more focus on making the offering better for advertisers to increase monetization.
+
+We exceeded our ads revenue target in Q4. We've doubled our ads revenue year over year last year. We expect to double it again this year. We're making solid progress with considerable work ahead. We don't see specific hurdles other than doing the work. Our path is relatively straightforward with significant runway to continue growing revenue.
+
+Q: Ad Tech Platform Readiness (Jessica Reif Ehrlich, Bank of America)
+
+Gregory K. Peters:
+2025 is the year we transition from crawl to walk. A big part is standing up our own ad stack. We launched in Canada, and it's gone well. We're rolling out in 2025 across the rest of our 12 ads countries, starting with the U.S. in April.
+
+The biggest initial benefit of our own ad server is enabling more flexibility and ways of buying for advertisers, fewer activation hurdles, improving overall buyer experience. This drives increased sales and ease of transacting with Netflix. We're already seeing impact of these benefits in Canada revenue growth.
+
+Over time, our first-party ad tech platform allows more critical capabilities: more programmatic availability, enhanced targeting, leveraging more data sources, more measurement, reporting, incrementality studies. It also creates higher-quality experience for members by increasing relevance.
+
+We have many years of building ahead. The roadmap is clear. We're committed to iterative innovation in advertising. While we've got tons of work, the path for the next several years is fairly straightforward. We're confident we can continue growing revenue at solid pace and earn a growing piece of over $25 billion in CTV ad spend.
+
+Q: NFL Games and Full-Season Sports Rights (Ben Swinburne, Morgan Stanley)
+
+Theodore A. Sarandos:
+The NFL games had phenomenal viewing - they're the two most-streamed NFL games ever. Average minute audience was 30 million and 31 million. Beyonce set a very high bar for future halftime shows. We're thrilled with the viewing and everything about it.
+
+That said, we're constantly trying to broaden our programming, and live events is one area, with sports being part of those live events. But this doesn't change that underlying economics of full-season big-league sports are extremely challenging. If there was a path where we could make economics work for both us and the league, we'd explore. But right now, we believe live events business is where we want to be. Sports is an important part of that expansion.
+
+Q: WWE Raw Performance and UFC Rights (Rich Greenfield, LightShed)
+
+Theodore A. Sarandos:
+WWE is off to a great start. Our first week drew about 5 million views - about two times the audience "Monday Night Raw" was getting in linear television. Pretty consistent with how we modeled it. Nonlive viewing grew by 25% in the day after, mostly outside U.S. time zones - big markets like U.K., Canada, Mexico, Australia, Brazil.
+
+In the U.S., our viewing was as big as "Monday Night Raw" has been in five years. We're going to be mindful of the bottom line. Big-league sports full-season economics are very hard to make work. We want to bring value to the sport - we bring a big audience, a young audience, a more global audience than linear television. But that has to be reflected in the deal.
+
+Q: FIFA Women's World Cup Rights Decision (Vikram, Baird)
+
+Theodore A. Sarandos:
+It fits perfectly into the strategy. Women's World Cup is a real TV event, totally consistent with what we're trying to do. These matches set viewing records in 2023, and women's sports have only become more interesting and popular since. It's a month-long event filled with drama played by some of the greatest athletes in the world.
+
+We're thrilled to be the home for those games starting in 2027. We're thrilled to have time to start telling the stories of these teams and athletes like we've done so well with other sports through our series and documentaries.
+
+Q: "Carry-On" Success Without Theatrical Release (Rich Greenfield, LightShed)
+
+Theodore A. Sarandos:
+This was a great example of a movie born on Netflix generating enormous audience and tons of buzz. One producer called me to say "This is exactly what it feels like when I have a big movie in the theaters." We even got injected into the "Is 'Die Hard' a Christmas movie" debate, and "Is 'Carry-On' the new 'Die Hard.'" We're definitely in the zeitgeist.
+
+In less than two months, "Carry-On" was well-reviewed and racked up 313 million view hours, set to surpass "Bird Box" viewership. The film had very modest marketing spend like we typically do. It draws attention to how powerful the platform is to promote to our own members. Netflix can talk to members where they are - on Netflix. We have social channels with over a billion subscribers keeping the conversation going.
+
+It's strong proof that a movie born on Netflix can be a big hit and be the center of culture.
+
+Q: Narnia IMAX Theatrical Strategy (Doug Anmuth, JPMorgan)
+
+Theodore A. Sarandos:
+No change at all to our theatrical strategy. Our core strategy is to give members exclusive first-run movies on Netflix. The "Narnia" IMAX release is a release tactic. We routinely release movies in theaters a couple weeks before to qualify for awards, meet festival requirements, and prime the publicity pump.
+
+In "Narnia" case, it's a two-week special event. It's differentiated - no one has a screen as big as IMAX at home, so it's a differentiated consumer experience. We've done variants of these releases many times. Doing it with IMAX greatly simplifies our release process.
+
+Mostly, I'm incredibly excited to be working with Greta on this movie. She's an incredible director, and this is a really exciting project.
+
+Q: Price Increase Strategy and Cadence (Vikram, Baird)
+
+Gregory K. Peters:
+Our pricing philosophy hasn't changed. We look to continually provide more value to members, investing wisely to increase variety and quality of our entertainment. We listen to members for signals like engagement, retention, acquisition. When we've achieved that increase in value, we ask them to pay a bit more to keep the virtuous cycle going.
+
+We've taken price increases across markets in EMEA, APAC, and LatAm over last couple quarters across most plans including ads. Those changes have gone smoothly. Our starting price - $7.99 in U.S. for standard with ads - is an incredible entertainment value and highly accessible entry point.
+
+We feel really good about long-term monetization opportunity. We earn only 6% of revenue opportunity in countries and segments we currently serve. As long as we deliver on improving variety and quality of TV and film slate, gradually expanding with newer content types, we'll be able to increase that share progressively every year.
+
+Theodore A. Sarandos:
+When asking for a price increase, you better have the goods and engagement to back it up. What we have going into 2025 is just that. Returning seasons of our biggest shows ever: "Wednesday," "Stranger Things," "Squid Game," "Night Agent," Ryan Murphy's "Monster," "You," "Alice in Borderland," "Delhi Crime," "Drive to Survive."
+
+On film side: new movies from Oscar winners Guillermo del Toro, Kathryn Bigelow, Noah Baumbach, Russo Brothers' new film, "Happy Gilmore 2," new "Knives Out" film. Live: SAG Awards next month, Christmas Day football, "Monday Night Raw" every Monday night, and a few surprises. The strength of slate has never been better.
+
+Q: Engagement Growth as Strategic Priority (Peter Supino, Wolfe Research)
+
+Theodore A. Sarandos:
+Absolutely. We're trying to entertain the world. You measure that by how people push play and stick around. Bella and her team are programming for breadth and quality, trying to meet people where they are - something for everybody, every mood, every language, every part of the world.
+
+Our average member watches about two hours a day. We've still got plenty of work to grow that, and that's what the team is highly focused on.
+
+Gregory K. Peters:
+We consistently see that improvements in engagement are correlated with other key business drivers - retention, acquisition, etc. We're excited we've seen continuing growth in engagement.
+
+Spencer Adam Neumann:
+The flywheel starts with engagement. It's engagement, revenue, profit, and it drives everything. As a reminder, we will now going forward twice a year on the same day as earnings release our engagement reports starting with Q2. In July, earnings report will include engagement report.
+
+Theodore A. Sarandos:
+Our next engagement report publishes in February - next month.
+
+Q: Competing with Short-Form Video Platforms (Justin Patterson, Keybanc)
+
+Theodore A. Sarandos:
+Our goal is to entertain all audiences, including younger audiences watching disproportionately more short-form content. Those folks all love film and TV shows as well. We're constantly entertaining them with projects that get them so excited they push play, stick around, talk about shows on social media, do tributes.
+
+Our core is professional longer-form storytelling - a very big and enduring business. Short-form services are also a great breeding ground for new storytellers. We're excited to bring Ms. Rachel onto Netflix. We have rich history of finding projects in other places and having them be successful on Netflix: "Cobra Kai," "CoComelon," "Somebody Feed Phil" (now shooting eighth season).
+
+We have to win over audiences with programming they love: "Heartstopper," "Stranger Things," "Ginny & Georgia," "Elite," "Outer Banks." We have to out-compete for those moments of entertainment truth.
+
+Gregory K. Peters:
+We see ourselves playing a specific and differentiated role in the ecosystem. Whether being a place where great storytellers can graduate to from YouTube, theater, or anywhere else. Consumers want a spot to enjoy great movies and TV shows, with UI and UX designed specifically around that. Creative partners need someone who can participate in investing, share the risk inherent in bringing stories to life.
+
+We want to double down on supporting that part of the ecosystem. Shows like "Stranger Things," "Wednesday," "Heartstopper," "Outer Banks" with huge viewing and fandom, especially with younger audiences, continue to have a place to be found, loved, and enjoyed.
+
+Q: Video Games Progress and Impact (Alan Gould, Loop Capital)
+
+Gregory K. Peters:
+We've learned quite a bit and made good early progress since launching games. We've launched many games with highlights including critically acclaimed Oxenfree II, Grand Theft Auto (tens of millions of downloads), fan favorites based on Netflix IP like "Too Hot to Handle," "Emily in Paris," "Selling Sunset."
+
+Our latest big release, Squid Game: Unleashed, validates our Netflix game formula - enabling a virtuous cycle between linear content and simultaneous game offerings. We're scratching the surface of what we can do. This approach extends audience engagement with the universe and story, creates synergy reinforcing both interactive and noninteractive mediums.
+
+Under Alain Tascan's leadership, we're refining strategy. We're focusing on:
+- More narrative games based on Netflix IP (consistent fan favorites)
+- Party and couch co-op games on TV delivered from cloud (successor to family board game night, evolution of game show on TV)
+- Games for kids (no ads, no in-app payments, safe space)
+- More recognizable mainstream titles (licensed like GTA, homegrown based on our IP)
+
+Squid Game: Unleashed reached No. 1 in action games in app stores in 107 countries. On pace to become our most downloaded game. We already see positive impacts on acquisition and retention from game-playing members. Effects are relatively small currently, but so is our investment in games relative to overall content budget.
+
+We'll stay disciplined about scaling investment as we see continued scaling in member benefits. We're breaking into a whole new content category driving approximately $140 billion in consumer spend (ex China, ex Russia), not including ad revenue. We're iteratively showing members we're a place to discover and play games.
+
+Q: Long-Term Content Spending Levels (Jason Helfstein, Oppenheimer)
+
+Spencer Adam Neumann:
+We're a long way from equilibrium. We're taking up cash content spend this year from $17 billion to $18 billion. That's in context of being small in view share and penetration everywhere. We're less than 50% penetrated into connected households. We're only capturing about 6% of our estimated revenue market, so we have a long way to grow.
+
+It's about where we put the next billion dollars to work most impactfully. Over next year or so, you'll see that in:
+- Continuing to build big-scripted TV series
+- Building out live
+- Building out original programming in each region
+- More impactful licensing opportunities
+
+There's a long runway to continue growing. We do it disciplined way - set growth based on top-line growth and margin targets, then allocate for highest impact. You've seen us do this responsibly. Our cash spend and content cash amortization is roughly 1.1 ratio, plus or minus. Both growing slower than revenue growth.
+
+You should see us continuing to grow this way for foreseeable future as we grow engagement and please growing audience around the world.
+
+Q: 2025 Operating Margin Guidance Drivers (John Blackledge, TD Cowen)
+
+Spencer Adam Neumann:
+We're always balancing revenue growth with strategic investment into the business. We've balanced well this year. We guided to 12% to 14% top-line revenue growth. Based on margin guidance, implied expense growth is sort of high single-digit, 9% plus or minus for 2025.
+
+Breaking that down:
+- High single-digit, roughly, content amortization growth (still below revenue growth, some margin there)
+- Based on $18 billion plus or minus expected content cash spend
+- Amort moves around based on timing of titles and releases
+
+We're investing into growth priorities:
+- Heavily into product and engineering teams to build out ads, live, and games capabilities
+- New user interface to enhance product discovery
+- Marketing and sales line (mostly sales side) as we build out ad sales organization and go-to-market capabilities
+- Support areas growing sort of mid, low single digits
+
+Across the board, we're driving margin improvement in a way appropriate for the business while investing into our growth.
+
+CONCLUSION
+
+Spencer Wang:
+Thank you all for joining us for our Q4 earnings call. We look forward to speaking with you all next quarter. Thanks very much.
