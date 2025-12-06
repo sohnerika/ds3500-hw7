@@ -34,16 +34,6 @@ class ArtificialUnintelligence:
         """
         Super aggressive preprocessing to remove ALL HTML/CSS/formatting artifacts
         """
-        """
-        # Remove all HTML tags and formatting
-        text = re.sub(r'<[^>]+>', ' ', text)
-        text = re.sub(r'&[a-z]+;', ' ', text)
-        text = re.sub(r'&#\d+;', ' ', text)
-        text = re.sub(r'http\S+|www\.\S+', ' ', text)
-        text = re.sub(r'\d+', ' ', text)
-        text = re.sub(r'[^a-zA-Z\s]', ' ', text)
-        text = re.sub(r'\s+', ' ', text)
-        """
         text = text.lower()
         words = text.split()
 
@@ -53,7 +43,7 @@ class ArtificialUnintelligence:
 
         # Filter out very short words
         words = [w for w in words if len(w) >= 3]
-       
+
         return words
 
 
