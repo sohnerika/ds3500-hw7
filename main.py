@@ -7,7 +7,6 @@ Assignment: DS3500 HW7
 from artificial_unintelligence import ArtificialUnintelligence
 import au_parsers as aup
 
-
 def main():
     """
     Load documents, generate statistics, and create visualizations
@@ -26,13 +25,13 @@ def main():
 
     # 10k annual reports (3 documents)
     print("  Loading Apple 10-K 2024...")
-    analyzer.load_text('data/apple_10k_2024.txt', 'Apple 10-K')
+    analyzer.load_text('data/apple_10k_2024.txt', 'Apple 10-K', parser=aup.html_like_parser)
 
     print("  Loading Amazon 10-K 2024...")
-    analyzer.load_text('data/amazon_10k_2024.txt', 'Amazon 10-K')
+    analyzer.load_text('data/amazon_10k_2024.txt', 'Amazon 10-K', parser=aup.html_like_parser)
 
     print("  Loading AMD 10-K 2024...")
-    analyzer.load_text('data/amd_10k_2024.txt', 'AMD 10-K')
+    analyzer.load_text('data/amd_10k_2024.txt', 'AMD 10-K', parser=aup.html_like_parser)
 
     # Earnings calls (3 documents)
     print("  Loading Apple Q4 2024 Earnings Call...")
@@ -83,27 +82,7 @@ def main():
     # Viz 1: Sankey with curated words
     print("\nGenerating Sankey diagram with curated tech/business words...")
 
-    # Curated list of meaningful business/tech terms
-    curated_words = [
-        # Business
-        'revenue', 'customers', 'growth', 'business', 'products',
-        'services', 'market', 'sales', 'quarter', 'year',
-
-        # Technology
-        'technology', 'data', 'software', 'innovation', 'development',
-        'intelligence', 'computing', 'infrastructure', 'platform',
-
-        # Company names
-        'apple', 'amazon', 'google', 'intel', 'nvidia', 'amd', 'netflix',
-
-        # AI specific
-        'artificial', 'models', 'cloud', 'devices', 'systems',
-
-        # ESG
-        'energy', 'emissions', 'environmental', 'sustainability', 'water'
-    ]
-
-    analyzer.wordcount_sankey(word_list=curated_words)
+    analyzer.wordcount_sankey()
     print("Sankey diagram generated!")
 
     # Viz 2: Subplots

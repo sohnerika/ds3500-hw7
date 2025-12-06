@@ -6,6 +6,7 @@ Assignment: DS3500 HW7
 
 import json
 from collections import Counter
+import re
 
 import json
 from collections import Counter
@@ -76,6 +77,33 @@ def json_parser(filename):
         raw = json.load(file)
     text = raw["text"]
     return text
+
+def html_like_parser(filename):
+    """
+    Custom parser for HTML-ish or SEC filings with CSS code.
+    Returns cleaned plain text.
+    """
+    with open(filename, "r", encoding="utf-8") as f:
+        text = f.read()
+
+    # Remove script and style blocks
+    text = re.sub(r'<script.*?>.*?</script>', ' ', text, flags=re.DOTALL | re.IGNORECASE)
+    text = re.sub(r'<style.*?>.*?</style>', ' ', text, flags=re.DOTALL | re.IGNORECASE)
+
+    # Remove ALL HTML tags
+    text = re.sub(r'<[^>]*>', ' ', text)
+
+    # Remove inline attributes: key="...", key='...', key=value
+    text = re.sub(r'\b\w+\s*=\s*(".*?"|\'.*?\'|\S+)', ' ', text)
+
+    # Remove punctuation that causes weird tokens
+    text = re.sub(r'[^a-zA-Z\s]', ' ', text)
+
+    # Collapse whitespace
+    text = re.sub(r'\s+', ' ', text)
+
+    return text.strip()
+
 
 
 

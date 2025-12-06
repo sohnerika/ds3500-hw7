@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 import plotly.io as pio
 import numpy as np
-import re
 
 pio.renderers.default = "browser"
 
@@ -80,15 +79,15 @@ class ArtificialUnintelligence:
          Map each text to words using a Sankey diagram, where the thickness of the line
         """
 
-        # Step 1: get wordcount data: dict[label -> Counter]
+        # Pulling wordcount data
         if "wordcount" not in self.data:
             print("No wordcount data available. Did you load any texts?")
             return
 
-        wordcounts = self.data["wordcount"]  # {label: Counter(...)}
+        wordcounts = self.data["wordcount"]
         doc_labels = list(wordcounts.keys())
 
-        # Step 2: decide which words to include
+        # Decide which words to use (if specified)
         if word_list is not None:
             # Use caller to caller provided word list
             selected_words = [
@@ -108,14 +107,14 @@ class ArtificialUnintelligence:
             print("No words selected for Sankey (maybe all filtered out).")
             return
 
-        # Step 3: build node labels
+        # Building more labels
         word_labels = selected_words
         node_labels = doc_labels + word_labels
 
         # Map each label to a node index
         label_to_index = {lab: i for i, lab in enumerate(node_labels)}
 
-        # Step 4: build link lists (src, targ, val)
+        # Building link lists
         src = []
         targ = []
         val = []
@@ -133,7 +132,7 @@ class ArtificialUnintelligence:
             print("No non-zero counts for the selected words.")
             return
 
-        # Step 5: create Sankey figure
+        # Creating sankey figure
         fig = go.Figure(data=[go.Sankey(
             node=dict(
                 label=node_labels,
