@@ -8,9 +8,6 @@ import json
 from collections import Counter
 import re
 
-import json
-from collections import Counter
-
 # Sentiment word lists
 POSITIVE_WORDS = {
     'good', 'great', 'excellent', 'best', 'positive', 'success', 'successful',

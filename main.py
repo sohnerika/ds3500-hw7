@@ -72,7 +72,7 @@ def main():
         print(f"{label:25s}: {avg_len:>8.2f} characters")
 
     print("\nDocument type breakdown:")
-    print("  10-K Reports: 2 documents (Apple, Amazon)")
+    print("  10-K Reports: 3 documents (Apple, Amazon, AMD)")
     print("  Earnings Calls: 3 documents (Apple, Netflix, NVIDIA)")
     print("  ESG/CSR Reports: 2 documents (Google, Intel)")
     print("  TOTAL: 7 documents")

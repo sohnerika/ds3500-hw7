@@ -4,7 +4,7 @@ Authors: Erica Zheng, Erika Sohn, Gavin Bond
 Assignment: DS3500 HW7
 """
 
-from collections import Counter, defaultdict
+from collections import defaultdict
 import au_parsers as aup
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
@@ -31,7 +31,7 @@ class ArtificialUnintelligence:
 
     def preprocess(self, text):
         """
-        Super aggressive preprocessing to remove ALL HTML/CSS/formatting artifacts
+        Generic text preprocessing with stopword removal and short word removal
         """
         text = text.lower()
         words = text.split()
